@@ -1,8 +1,13 @@
 # laravel-real-estate-script
 Introducing Laravel Real Estate, a user-friendly subscription-based multivendor Real Estate website built on Laravel 10 and Bootstrap. Admins can easily create featured plans with limits, and the product guarantees long-term support and updates. With its simplicity and versatility, the Real estate script is perfect solution. 
 
-# Demo
-https://realestate.laravelclassified.com/
+If you are in need of a script tailored to a specific niche, we are here to assist you with any customization requirements.
+
+<a href="https://buymeacoffee.com/arfan" target="_blank">
+<img width="350" alt="bmc-button" src="https://skiptotheendpoint.co.uk/content/images/2024/07/yellow-button.png"> <a/>
+
+<img width="800" alt="Easy Estae - Real Estate Protal" src="https://github.com/user-attachments/assets/d1f76b17-3814-4677-aca1-7d0edc81597f">
+
 
 # Features
 1. Multivendor Listing
@@ -49,6 +54,21 @@ and much more..
 - RSS feeds generator
 - Website Sitemap page
 - Google XML Sitemap
+
+## Contact
+**Email**: arfan67@gmail.com
+<br>**Skype**: cent040
+
+<a href="https://buymeacoffee.com/arfan" target="_blank">
+<img width="350" alt="bmc-button" src="https://skiptotheendpoint.co.uk/content/images/2024/07/yellow-button.png"> <a/>
+![Preview_7](https://github.com/user-attachments/assets/751213ca-1718-4df4-9a6f-dd8f037b7952)
+![Preview_6](https://github.com/user-attachments/assets/482f3171-b2ee-4e7a-8d91-d8aa4fd024e8)
+![Preview_5](https://github.com/user-attachments/assets/4566c233-dc21-4860-9b09-eb03830e7706)
+![Preview_4](https://github.com/user-attachments/assets/fac2703c-a93f-4282-b39e-672d2149ff92)
+![Preview_3](https://github.com/user-attachments/assets/85a005ea-2184-4893-b63d-144dbfd47d16)
+<img width="501" alt="Preview_2" src="https://github.com/user-attachments/assets/b87b3d0c-f67a-4a92-86cf-7aea175bf22e">
+<img width="508" alt="Preview_1" src="https://github.com/user-attachments/assets/b6ce5c4e-5a62-4871-b428-9a2c65f8acb1">
+
 
 
 
