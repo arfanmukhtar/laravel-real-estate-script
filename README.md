@@ -61,14 +61,11 @@ and much more..
 
 <a href="https://buymeacoffee.com/arfan" target="_blank">
 <img width="350" alt="bmc-button" src="https://skiptotheendpoint.co.uk/content/images/2024/07/yellow-button.png"> <a/>
-![Preview_7](https://github.com/user-attachments/assets/751213ca-1718-4df4-9a6f-dd8f037b7952)
-![Preview_6](https://github.com/user-attachments/assets/482f3171-b2ee-4e7a-8d91-d8aa4fd024e8)
-![Preview_5](https://github.com/user-attachments/assets/4566c233-dc21-4860-9b09-eb03830e7706)
-![Preview_4](https://github.com/user-attachments/assets/fac2703c-a93f-4282-b39e-672d2149ff92)
-![Preview_3](https://github.com/user-attachments/assets/85a005ea-2184-4893-b63d-144dbfd47d16)
-<img width="501" alt="Preview_2" src="https://github.com/user-attachments/assets/b87b3d0c-f67a-4a92-86cf-7aea175bf22e">
-<img width="508" alt="Preview_1" src="https://github.com/user-attachments/assets/b6ce5c4e-5a62-4871-b428-9a2c65f8acb1">
 
+<img width="901" alt="Preview_2" src="https://github.com/user-attachments/assets/b87b3d0c-f67a-4a92-86cf-7aea175bf22e">
+<img width="908" alt="Preview_1" src="https://github.com/user-attachments/assets/b6ce5c4e-5a62-4871-b428-9a2c65f8acb1">
+
+![Preview_3](https://github.com/user-attachments/assets/1df38218-15d0-4c53-a75d-3cc9a7ef78d0)
 
 
 
